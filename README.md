@@ -1,3 +1,3 @@
 # Pogoda
 
-projekt gotowy jutro go dodam
+projekt gotowy
